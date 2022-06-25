@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Marc%20Sih%20💻&width=800&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Marc%20Sih%20💻&width=700&height=200" />
 
   ![](https://komarev.com/ghpvc/?username=MarcShayne-npc&color=green)
 
