@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Marc%20Sih%20💻&width=800&height=400" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Marc%20Sih%20💻&width=800&height=200" />
 </div>
 
 <div align="center">
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcShayne-npc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcShayne-npc&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
