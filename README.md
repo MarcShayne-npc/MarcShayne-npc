@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Reign%20Larraquel%20💻&width=500&height=250" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Marc%20Sih%20💻&width=500&height=250" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/ReignLarraquel/ReignLarraquel/blob/main/github-metrics.svg" />
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </div>
 <!--
 **MarcShayne-npc/MarcShayne-npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
