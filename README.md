@@ -1,5 +1,4 @@
-[![MasterHead](https://media.sproutsocial.com/uploads/2018/04/Facebook-Cover-Photo-Size.png)](https://github.com/MarcShayne-npc))
-)
+[![MasterHead](https://media.sproutsocial.com/uploads/2018/04/Facebook-Cover-Photo-Size.png)](https://github.com/MarcShayne-npc)
 
 <!--
 **MarcShayne-npc/MarcShayne-npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
