@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
- <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 </div>
+
+  [![Metrics](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-metrics.svg)](https://github.com/MarcShayne-npc)
 <!--
 **MarcShayne-npc/MarcShayne-npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
