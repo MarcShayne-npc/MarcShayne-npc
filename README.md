@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif">
+
 
 <!--
 **MarcShayne-npc/MarcShayne-npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcShayne-npc)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcShayne-npc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
