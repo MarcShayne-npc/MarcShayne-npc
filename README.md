@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <img align="center" src="/github-metrics.svg" alt="Metrics" width="800">
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 </div>
 <!--
 **MarcShayne-npc/MarcShayne-npc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
