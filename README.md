@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
  <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
   
   ![](https://github-profile-trophy.vercel.app/?username=MarcShayne-npc&theme=onedark&column=4&margin-w=15&margin-h=15)
