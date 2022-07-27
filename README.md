@@ -5,8 +5,7 @@
 
  <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MarcShayne-npc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+  ![](https://github-profile-trophy.vercel.app/?username=MarcShayne-npc&theme=onedark)
 
 </div>
 
