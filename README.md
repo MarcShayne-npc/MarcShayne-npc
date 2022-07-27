@@ -8,7 +8,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=MarcShayne-npc&style=for-the-badge&color=blue" alt=""/> |  <a href="https://www.linkedin.com/in/marc-sih-2406371b8/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Marc%20Sih%20💻&width=700&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Marc%20Shayne%20💻&width=700&height=200" />
 
 ---
 
